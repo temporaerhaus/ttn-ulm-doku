@@ -8,4 +8,8 @@ Ein paar untersch. Beispiele wurden ausgewählt, um die Anwendungsfälle darzust
 
 _Erwartete Größenordnung_ ist eher nur der Vollständigkeit halber angegeben, anfänglich werden es sicher sehr wenige Nutzer sein, wenn ein Projekt erfolgreich wird evtl. sehr viele.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIjtc_3zhHb_qAB8T7M6VqZgDAg2HoZttMMvmHtoHf8TuXLLMSv85dDohlvcYTW2wNQKyQLKnRtSGC/pubhtml?widget=true&amp;headers=false"></iframe>
+**Tabelle als PDF:** https://docs.google.com/spreadsheets/d/e/2PACX-1vSIjtc_3zhHb_qAB8T7M6VqZgDAg2HoZttMMvmHtoHf8TuXLLMSv85dDohlvcYTW2wNQKyQLKnRtSGC/pub?gid=0&single=true&output=pdf
+
+**Webansicht:** https://docs.google.com/spreadsheets/d/e/2PACX-1vSIjtc_3zhHb_qAB8T7M6VqZgDAg2HoZttMMvmHtoHf8TuXLLMSv85dDohlvcYTW2wNQKyQLKnRtSGC/pubhtml?gid=0&single=true
+
+**Bearbeitbare Version:** https://docs.google.com/spreadsheets/d/1LBip4NfniGqUkmdZAKxofTcBltFPzxwSx1BkIHsFCWY/edit?usp=sharing
